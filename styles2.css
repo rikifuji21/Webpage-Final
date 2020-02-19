@@ -1,0 +1,13 @@
+.background
+{
+  background-color:rgb(156, 156, 156);
+}
+
+.header
+{
+  height:100px; 
+  width:1435px;
+  margin-top:-8px;
+  margin-left:-3px;
+  background-color:gray;
+}
