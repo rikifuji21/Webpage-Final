@@ -1,13 +1,56 @@
+/*Cytus II Theme*/
+
 .background
 {
-  background-color:rgb(156, 156, 156);
+  background-color:black;
 }
 
-.header
+.container
 {
-  height:100px; 
+  height:645px;
   width:1435px;
-  margin-top:-8px;
+  padding-top:20px;
   margin-left:-3px;
-  background-color:gray;
+  background-color:black; 
+}
+
+.select
+{
+  height:600px;
+  width:200px;
+  background-color: purple;
+  border-radius: 10px;
+}
+
+.container2
+{
+  height:40px;
+  width:1395px;
+  margin-left:-3px;
+  padding-left:40px;
+}
+
+.back
+{
+  background-image: 'url(images/backbutton.png)';
+}
+
+.spacer
+{
+  float:left;
+  margin-left:2%;
+}
+
+.marginl
+{
+  float:left;
+  margin-left:5%;
+}
+
+.cpage
+{
+  height: ; 
+  width: ;
+  background-color: ;
+  color: ;
 }
