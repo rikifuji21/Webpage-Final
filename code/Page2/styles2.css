@@ -1,0 +1,86 @@
+/*Cytus II Theme*/
+
+.background
+{
+  background-color:rgba(15, 15, 15,90);
+  overflow-x:hidden;
+  overflow-y:hidden;
+}
+
+.container
+{
+  height:727px;
+  width:1536px;
+  padding-top:80px;
+  margin-top:-8px;
+  margin-left:-8px;
+  background-color: rgba(25, 25, 25,35); 
+}
+
+.red
+{
+	color:red;
+	font-size:20pt;
+}
+
+.blue
+{
+  color:blue;
+  font-size:20pt;
+}
+
+.blue:hover
+{
+  font-size:30pt;
+}
+
+.red:hover
+{
+	font-size:30pt;
+}
+
+.select
+{
+  height:600px;
+  width:200px;
+  background-color: black;
+  border-radius: 10px;
+}
+
+.select:hover
+{
+  height:700px;
+  width:300px;
+  margin-top:-30px;
+}
+
+.spacer
+{
+  float:left;
+  margin-left:20%;
+}
+
+.container2
+{
+  height:76px;
+  width:1479px;
+  margin-top:580px;
+  margin-left:-8px;
+  padding-left:40px;
+  background-color: transparent;
+}
+
+.back
+{
+  background-image: url(images/backbutton.png);
+  height: 140px;
+  width: 140px;
+  background-size: contain;
+}
+
+
+.marginl
+{
+  float:left;
+  margin-left:10%;
+}

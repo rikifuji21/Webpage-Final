@@ -1,0 +1,4 @@
+function animtxt () {
+	var i =
+
+}

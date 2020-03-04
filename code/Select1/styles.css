@@ -1,0 +1,49 @@
+
+.background
+{
+  background-color:rgb(156, 156, 156);
+}
+
+.header
+{
+  height:100px;
+  width:1496px;
+  margin-top:-8px;
+  margin-left:-8px;
+  padding-left:40px;
+  background-color:gray;
+  text-align: center;
+  font-size: 40pt ;
+}
+
+.button
+{
+  height: 100px;
+  width: 200px;
+  text-align: center;
+  font-size: 30pt ;
+  margin-top: 10px;
+  margin-left: 43%;
+  border-style: solid;
+  border-width: 5px;
+  border-radius:10px;
+  border-color: white;
+  background-color: black;
+  color: white;
+  box-shadow: 10px 10px 5px black;
+}
+
+.button:hover
+{
+  height: 100px;
+  width: 200px;
+  margin-top: 10px;
+  margin-left: 43%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+  background-color: white;
+  color: black;
+  box-shadow: 10px 10px 5px black;
+}
+
